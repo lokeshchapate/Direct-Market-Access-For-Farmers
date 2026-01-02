@@ -1,0 +1,36 @@
+{
+  "title": "Direct Market Access for Farmers",
+  "description": "Connecting farmers directly with buyers for fair prices and transparent transactions",
+  "navbar": {
+    "home": "Home",
+    "about": "About",
+    "products": "Products",
+    "contact": "Contact",
+    "login": "Login",
+    "register": "Register",
+    "dashboard": "Dashboard",
+    "logout": "Logout"
+  },
+  "footer": {
+    "copyright": "© 2024 FarmDirect. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "contact": "Contact Us"
+  },
+  "buttons": {
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "add": "Add",
+    "search": "Search",
+    "filter": "Filter"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "success": "Success!",
+    "welcome": "Welcome"
+  }
+}
